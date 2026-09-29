@@ -1,0 +1,61 @@
+campaign_id,campaign_name,marketing_channel,campaign_type,target_segment,start_date,end_date,campaign_spend,promo_code
+CAMP-2024-001,New Year Kitchen Reset 2024 Paid Social,Paid Social,Seasonal,Repeat,2024-01-01,2024-01-14,11880.00,NEW2401
+CAMP-2024-002,New Year Kitchen Reset 2024 Direct Mail/Catalog,Direct Mail/Catalog,Seasonal,Discount Driven,2024-01-15,2024-01-28,20880.00,NEW2401
+CAMP-2024-003,Winter Soup Season 2024 Email,Email,Seasonal,Discount Driven,2024-02-01,2024-02-14,3100.00,WINTER2402
+CAMP-2024-004,Winter Soup Season 2024 Paid Social,Paid Social,Acquisition,New,2024-02-15,2024-02-28,14520.00,
+CAMP-2024-005,Spring Kitchen Refresh 2024 Organic/Direct,Organic/Direct,Retention,New,2024-03-01,2024-03-14,1000.00,SPRING2403
+CAMP-2024-006,Spring Kitchen Refresh 2024 Email,Email,Promotion,High Value,2024-03-15,2024-03-28,2700.00,SPRING2403
+CAMP-2024-007,Spring Kitchen Refresh 2024 Paid Social,Paid Social,Brand,At Risk,2024-03-15,2024-03-28,12760.00,
+CAMP-2024-008,Mother's Day Hosting 2024 Paid Social,Paid Social,Acquisition,Discount Driven,2024-04-01,2024-04-14,13640.00,
+CAMP-2024-009,Mother's Day Hosting 2024 Direct Mail/Catalog,Direct Mail/Catalog,Retention,New,2024-04-15,2024-04-28,23760.00,MOTHER'S2404
+CAMP-2024-010,Summer Entertaining 2024 Email,Email,Promotion,New,2024-05-01,2024-05-14,3000.00,SUMMER2405
+CAMP-2024-011,Summer Entertaining 2024 Paid Social,Paid Social,Brand,High Value,2024-05-15,2024-05-28,14256.00,
+CAMP-2024-012,Summer Entertaining 2024 Direct Mail/Catalog,Direct Mail/Catalog,Promotion,At Risk,2024-05-15,2024-05-28,25056.00,SUMMER2405
+CAMP-2024-013,Back to Routine 2024 Direct Mail/Catalog,Direct Mail/Catalog,Retention,Discount Driven,2024-06-01,2024-06-14,22320.00,BACK2406
+CAMP-2024-014,Back to Routine 2024 Paid Search,Paid Search,Brand,New,2024-06-15,2024-06-28,18480.00,
+CAMP-2024-015,Fall Pantry Reset 2024 Paid Social,Paid Social,Brand,New,2024-07-01,2024-07-14,11000.00,
+CAMP-2024-016,Fall Pantry Reset 2024 Direct Mail/Catalog,Direct Mail/Catalog,Promotion,High Value,2024-07-15,2024-07-28,19440.00,FALL2407
+CAMP-2024-017,Fall Pantry Reset 2024 Paid Search,Paid Search,Acquisition,At Risk,2024-07-15,2024-07-28,16240.00,
+CAMP-2024-018,Holiday Preview 2024 Paid Search,Paid Search,Brand,Discount Driven,2024-08-01,2024-08-14,17360.00,
+CAMP-2024-019,Holiday Preview 2024 Organic/Direct,Organic/Direct,Brand,New,2024-08-15,2024-08-28,1320.00,
+CAMP-2024-020,Black Friday Kitchen Event 2024 Direct Mail/Catalog,Direct Mail/Catalog,Promotion,New,2024-09-01,2024-09-14,18000.00,BLACK2409
+CAMP-2024-021,Black Friday Kitchen Event 2024 Paid Search,Paid Search,Acquisition,High Value,2024-09-15,2024-09-28,15120.00,
+CAMP-2024-022,Holiday Hosting 2024 Paid Social,Paid Social,Seasonal,High Value,2024-10-01,2024-10-14,15312.00,HOLIDAY2410
+CAMP-2024-023,Holiday Hosting 2024 Direct Mail/Catalog,Direct Mail/Catalog,Seasonal,At Risk,2024-10-15,2024-10-28,26784.00,HOLIDAY2410
+CAMP-2024-024,Holiday Hosting 2024 Paid Search,Paid Search,Promotion,Repeat,2024-10-15,2024-10-28,22176.00,HOLIDAY2410
+CAMP-2024-025,Year End Clearance 2024 Paid Search,Paid Search,Acquisition,New,2024-11-01,2024-11-14,22400.00,
+CAMP-2024-026,Year End Clearance 2024 Organic/Direct,Organic/Direct,Seasonal,High Value,2024-11-15,2024-11-28,1728.00,YEAR2411
+CAMP-2024-027,Year End Clearance 2024 Email,Email,Seasonal,At Risk,2024-11-15,2024-11-28,4640.00,YEAR2411
+CAMP-2024-028,Everyday Essentials 2024 Email,Email,Retention,Discount Driven,2024-12-01,2024-12-14,4960.00,EVERYDAY2412
+CAMP-2024-029,Everyday Essentials 2024 Paid Social,Paid Social,Seasonal,New,2024-12-15,2024-12-28,23232.00,EVERYDAY2412
+CAMP-2024-030,Everyday Essentials 2024 Direct Mail/Catalog,Direct Mail/Catalog,Seasonal,High Value,2024-12-15,2024-12-28,28800.00,EVERYDAY2412
+CAMP-2025-031,New Year Kitchen Reset 2025 Paid Social,Paid Social,Seasonal,Repeat,2025-01-01,2025-01-14,11880.00,NEW2501
+CAMP-2025-032,New Year Kitchen Reset 2025 Direct Mail/Catalog,Direct Mail/Catalog,Seasonal,Discount Driven,2025-01-15,2025-01-28,20880.00,NEW2501
+CAMP-2025-033,Winter Soup Season 2025 Email,Email,Seasonal,Discount Driven,2025-02-01,2025-02-14,3100.00,WINTER2502
+CAMP-2025-034,Winter Soup Season 2025 Paid Social,Paid Social,Acquisition,New,2025-02-15,2025-02-28,14520.00,
+CAMP-2025-035,Spring Kitchen Refresh 2025 Organic/Direct,Organic/Direct,Retention,New,2025-03-01,2025-03-14,1000.00,SPRING2503
+CAMP-2025-036,Spring Kitchen Refresh 2025 Email,Email,Promotion,High Value,2025-03-15,2025-03-28,2700.00,SPRING2503
+CAMP-2025-037,Spring Kitchen Refresh 2025 Paid Social,Paid Social,Brand,At Risk,2025-03-15,2025-03-28,12760.00,
+CAMP-2025-038,Mother's Day Hosting 2025 Paid Social,Paid Social,Acquisition,Discount Driven,2025-04-01,2025-04-14,13640.00,
+CAMP-2025-039,Mother's Day Hosting 2025 Direct Mail/Catalog,Direct Mail/Catalog,Retention,New,2025-04-15,2025-04-28,23760.00,MOTHER'S2504
+CAMP-2025-040,Summer Entertaining 2025 Email,Email,Promotion,New,2025-05-01,2025-05-14,3000.00,SUMMER2505
+CAMP-2025-041,Summer Entertaining 2025 Paid Social,Paid Social,Brand,High Value,2025-05-15,2025-05-28,14256.00,
+CAMP-2025-042,Summer Entertaining 2025 Direct Mail/Catalog,Direct Mail/Catalog,Promotion,At Risk,2025-05-15,2025-05-28,25056.00,SUMMER2505
+CAMP-2025-043,Back to Routine 2025 Direct Mail/Catalog,Direct Mail/Catalog,Retention,Discount Driven,2025-06-01,2025-06-14,22320.00,BACK2506
+CAMP-2025-044,Back to Routine 2025 Paid Search,Paid Search,Brand,New,2025-06-15,2025-06-28,18480.00,
+CAMP-2025-045,Fall Pantry Reset 2025 Paid Social,Paid Social,Brand,New,2025-07-01,2025-07-14,11000.00,
+CAMP-2025-046,Fall Pantry Reset 2025 Direct Mail/Catalog,Direct Mail/Catalog,Promotion,High Value,2025-07-15,2025-07-28,19440.00,FALL2507
+CAMP-2025-047,Fall Pantry Reset 2025 Paid Search,Paid Search,Acquisition,At Risk,2025-07-15,2025-07-28,16240.00,
+CAMP-2025-048,Holiday Preview 2025 Paid Search,Paid Search,Brand,Discount Driven,2025-08-01,2025-08-14,17360.00,
+CAMP-2025-049,Holiday Preview 2025 Organic/Direct,Organic/Direct,Brand,New,2025-08-15,2025-08-28,1320.00,
+CAMP-2025-050,Black Friday Kitchen Event 2025 Direct Mail/Catalog,Direct Mail/Catalog,Promotion,New,2025-09-01,2025-09-14,18000.00,BLACK2509
+CAMP-2025-051,Black Friday Kitchen Event 2025 Paid Search,Paid Search,Acquisition,High Value,2025-09-15,2025-09-28,15120.00,
+CAMP-2025-052,Holiday Hosting 2025 Paid Social,Paid Social,Seasonal,High Value,2025-10-01,2025-10-14,15312.00,HOLIDAY2510
+CAMP-2025-053,Holiday Hosting 2025 Direct Mail/Catalog,Direct Mail/Catalog,Seasonal,At Risk,2025-10-15,2025-10-28,26784.00,HOLIDAY2510
+CAMP-2025-054,Holiday Hosting 2025 Paid Search,Paid Search,Promotion,Repeat,2025-10-15,2025-10-28,22176.00,HOLIDAY2510
+CAMP-2025-055,Year End Clearance 2025 Paid Search,Paid Search,Acquisition,New,2025-11-01,2025-11-14,22400.00,
+CAMP-2025-056,Year End Clearance 2025 Organic/Direct,Organic/Direct,Seasonal,High Value,2025-11-15,2025-11-28,1728.00,YEAR2511
+CAMP-2025-057,Year End Clearance 2025 Email,Email,Seasonal,At Risk,2025-11-15,2025-11-28,4640.00,YEAR2511
+CAMP-2025-058,Everyday Essentials 2025 Email,Email,Retention,Discount Driven,2025-12-01,2025-12-14,4960.00,EVERYDAY2512
+CAMP-2025-059,Everyday Essentials 2025 Paid Social,Paid Social,Seasonal,New,2025-12-15,2025-12-28,23232.00,EVERYDAY2512
+CAMP-2025-060,Everyday Essentials 2025 Direct Mail/Catalog,Direct Mail/Catalog,Seasonal,High Value,2025-12-15,2025-12-28,28800.00,EVERYDAY2512

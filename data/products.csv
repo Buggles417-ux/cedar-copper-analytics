@@ -1,0 +1,81 @@
+product_id,product_name,category,subcategory,price_tier,standard_price,unit_cost,launch_date,active_flag
+PROD-001,Nonstick Skillet,Cookware,Skillets,Mid,39.99,17.25,2022-03-01,Yes
+PROD-002,Stainless Steel Saucepan,Cookware,Saucepans,Premium,64.99,29.50,2022-09-15,Yes
+PROD-003,Cast Iron Dutch Oven,Cookware,Dutch Ovens,Premium,89.99,38.00,2023-02-10,Yes
+PROD-004,Ceramic Saute Pan,Cookware,Saute Pans,Premium,74.99,32.00,2023-08-01,Yes
+PROD-005,Hard Anodized Fry Pan Set,Cookware,Pan Sets,Luxury,129.99,58.00,2024-01-20,Yes
+PROD-006,Carbon Steel Wok,Cookware,Specialty Pans,Mid,49.99,21.00,2024-06-05,Yes
+PROD-007,Stock Pot with Lid,Cookware,Stock Pots,Mid,54.99,24.00,2022-03-01,Yes
+PROD-008,Copper Core Cookware Set,Cookware,Cookware Sets,Luxury,249.99,118.00,2022-09-15,Yes
+PROD-009,Enameled Braiser,Cookware,Braisers,Premium,99.99,44.00,2023-02-10,Yes
+PROD-010,Grill Pan,Cookware,Specialty Pans,Mid,44.99,19.50,2023-08-01,Yes
+PROD-011,Ceramic Mixing Bowl Set,Bakeware,Mixing Bowls,Mid,49.99,19.75,2024-01-20,Yes
+PROD-012,Nonstick Sheet Pan,Bakeware,Sheet Pans,Budget,24.99,9.25,2024-06-05,Yes
+PROD-013,Silicone Baking Mat Set,Bakeware,Baking Mats,Budget,19.99,6.50,2022-03-01,Yes
+PROD-014,Stoneware Loaf Pan,Bakeware,Baking Pans,Mid,34.99,14.50,2022-09-15,Yes
+PROD-015,Cooling Rack Set,Bakeware,Baking Tools,Budget,18.99,6.25,2023-02-10,Yes
+PROD-016,Muffin Pan,Bakeware,Baking Pans,Budget,22.99,8.25,2023-08-01,Yes
+PROD-017,Pie Dish,Bakeware,Baking Dishes,Mid,29.99,11.50,2024-01-20,Yes
+PROD-018,Cake Pan Set,Bakeware,Baking Pans,Mid,39.99,15.50,2024-06-05,Yes
+PROD-019,Rolling Pin,Bakeware,Baking Tools,Budget,21.99,7.75,2022-03-01,Yes
+PROD-020,Baking Starter Set,Bakeware,Bakeware Sets,Premium,79.99,31.00,2022-09-15,Yes
+PROD-021,Copper Measuring Cup Set,Kitchen Tools,Measuring Tools,Mid,39.99,18.50,2023-02-10,Yes
+PROD-022,Silicone Spatula Set,Kitchen Tools,Utensils,Budget,17.99,5.75,2023-08-01,Yes
+PROD-023,Chef Knife,Kitchen Tools,Cutlery,Premium,79.99,34.00,2024-01-20,Yes
+PROD-024,Cutting Board Set,Kitchen Tools,Prep Tools,Mid,44.99,18.25,2024-06-05,Yes
+PROD-025,Box Grater,Kitchen Tools,Prep Tools,Budget,16.99,5.25,2022-03-01,Yes
+PROD-026,Stainless Steel Tongs,Kitchen Tools,Utensils,Budget,14.99,4.75,2022-09-15,Yes
+PROD-027,Digital Kitchen Scale,Kitchen Tools,Measuring Tools,Mid,29.99,11.00,2023-02-10,Yes
+PROD-028,Mandoline Slicer,Kitchen Tools,Prep Tools,Mid,36.99,15.00,2023-08-01,Yes
+PROD-029,Mixing Spoon Set,Kitchen Tools,Utensils,Budget,19.99,6.75,2024-01-20,Yes
+PROD-030,Knife Block Set,Kitchen Tools,Cutlery,Luxury,159.99,72.00,2024-06-05,Yes
+PROD-031,Glass Food Storage Set,Food Storage,Containers,Mid,54.99,22.00,2022-03-01,Yes
+PROD-032,Airtight Pantry Canister,Food Storage,Canisters,Mid,24.99,9.25,2022-09-15,Yes
+PROD-033,Reusable Silicone Bags,Food Storage,Reusable Storage,Budget,19.99,6.75,2023-02-10,Yes
+PROD-034,Lunch Container Set,Food Storage,Containers,Budget,22.99,8.50,2023-08-01,Yes
+PROD-035,Stackable Fridge Bins,Food Storage,Fridge Storage,Mid,34.99,13.25,2024-01-20,Yes
+PROD-036,Vacuum Seal Starter Kit,Food Storage,Vacuum Storage,Premium,89.99,38.00,2024-06-05,Yes
+PROD-037,Dry Goods Storage Set,Food Storage,Canisters,Premium,74.99,29.00,2022-03-01,Yes
+PROD-038,Freezer Container Set,Food Storage,Containers,Mid,39.99,15.75,2022-09-15,Yes
+PROD-039,Produce Keeper Set,Food Storage,Fridge Storage,Mid,32.99,12.50,2023-02-10,Yes
+PROD-040,Meal Prep Bowl Set,Food Storage,Containers,Mid,42.99,17.00,2023-08-01,Yes
+PROD-041,French Press Coffee Maker,Coffee & Tea,Coffee Makers,Mid,44.99,17.50,2024-01-20,Yes
+PROD-042,Pour Over Coffee Set,Coffee & Tea,Coffee Makers,Premium,69.99,28.00,2024-06-05,Yes
+PROD-043,Electric Kettle,Coffee & Tea,Kettles,Premium,84.99,35.00,2022-03-01,Yes
+PROD-044,Tea Infuser Mug,Coffee & Tea,Tea Accessories,Budget,21.99,7.25,2022-09-15,Yes
+PROD-045,Cold Brew Pitcher,Coffee & Tea,Coffee Makers,Mid,34.99,13.00,2023-02-10,Yes
+PROD-046,Coffee Grinder,Coffee & Tea,Coffee Accessories,Premium,74.99,31.00,2023-08-01,Yes
+PROD-047,Milk Frother,Coffee & Tea,Coffee Accessories,Mid,29.99,10.50,2024-01-20,Yes
+PROD-048,Ceramic Mug Set,Coffee & Tea,Mugs,Mid,39.99,15.25,2024-06-05,Yes
+PROD-049,Loose Leaf Tea Tin Set,Coffee & Tea,Tea Accessories,Budget,18.99,5.75,2022-03-01,Yes
+PROD-050,Espresso Cup Set,Coffee & Tea,Drinkware,Mid,32.99,12.00,2022-09-15,Yes
+PROD-051,Stoneware Dinner Plate Set,Tabletop,Dinnerware,Premium,89.99,36.00,2023-02-10,Yes
+PROD-052,Linen Napkin Set,Tabletop,Linens,Mid,29.99,10.25,2023-08-01,Yes
+PROD-053,Serving Bowl,Tabletop,Serveware,Mid,34.99,13.75,2024-01-20,Yes
+PROD-054,Wood Serving Board,Tabletop,Serveware,Premium,59.99,24.00,2024-06-05,Yes
+PROD-055,Flatware Set,Tabletop,Flatware,Premium,99.99,42.00,2022-03-01,Yes
+PROD-056,Everyday Bowl Set,Tabletop,Dinnerware,Mid,49.99,19.25,2022-09-15,Yes
+PROD-057,Glass Tumbler Set,Tabletop,Drinkware,Mid,44.99,17.00,2023-02-10,Yes
+PROD-058,Table Runner,Tabletop,Linens,Budget,24.99,8.00,2023-08-01,Yes
+PROD-059,Salad Plate Set,Tabletop,Dinnerware,Mid,52.99,20.25,2024-01-20,Yes
+PROD-060,Pitcher and Carafe Set,Tabletop,Serveware,Premium,64.99,26.00,2024-06-05,Yes
+PROD-061,Bamboo Drawer Organizer,Pantry Organization,Drawer Storage,Mid,36.99,14.25,2022-03-01,Yes
+PROD-062,Spice Jar Set,Pantry Organization,Spice Storage,Mid,29.99,10.75,2022-09-15,Yes
+PROD-063,Expandable Shelf Riser,Pantry Organization,Shelf Storage,Budget,21.99,7.25,2023-02-10,Yes
+PROD-064,Label Clip Set,Pantry Organization,Labels,Budget,12.99,3.25,2023-08-01,Yes
+PROD-065,Pantry Basket Set,Pantry Organization,Baskets,Mid,44.99,17.50,2024-01-20,Yes
+PROD-066,Under-Sink Organizer,Pantry Organization,Cabinet Storage,Mid,39.99,15.25,2024-06-05,Yes
+PROD-067,Lazy Susan Turntable,Pantry Organization,Cabinet Storage,Budget,19.99,6.75,2022-03-01,Yes
+PROD-068,Cereal Dispenser,Pantry Organization,Canisters,Mid,32.99,12.50,2022-09-15,Yes
+PROD-069,Stackable Pantry Bins,Pantry Organization,Bins,Premium,69.99,27.00,2023-02-10,Yes
+PROD-070,Cabinet Lid Organizer,Pantry Organization,Cabinet Storage,Budget,18.99,5.75,2023-08-01,Yes
+PROD-071,Holiday Cookie Cutter Set,Seasonal Kitchen,Holiday Baking,Budget,16.99,4.75,2024-01-20,Yes
+PROD-072,Pumpkin Serving Platter,Seasonal Kitchen,Fall Hosting,Mid,34.99,12.75,2024-06-05,Yes
+PROD-073,Holiday Apron,Seasonal Kitchen,Seasonal Textiles,Budget,24.99,7.25,2022-03-01,Yes
+PROD-074,Gingerbread Baking Kit,Seasonal Kitchen,Holiday Baking,Mid,39.99,13.50,2022-09-15,Yes
+PROD-075,Outdoor Picnic Serve Set,Seasonal Kitchen,Summer Hosting,Mid,49.99,17.50,2023-02-10,Yes
+PROD-076,Grilling Tool Set,Seasonal Kitchen,Summer Cooking,Premium,69.99,28.00,2023-08-01,Yes
+PROD-077,Thanksgiving Pie Dish,Seasonal Kitchen,Fall Baking,Mid,29.99,10.00,2024-01-20,Yes
+PROD-078,Holiday Mug Set,Seasonal Kitchen,Holiday Drinkware,Mid,44.99,15.50,2024-06-05,Yes
+PROD-079,Entertaining Cheese Board,Seasonal Kitchen,Holiday Hosting,Premium,79.99,31.00,2022-03-01,Yes
+PROD-080,Seasonal Kitchen Towel Set,Seasonal Kitchen,Seasonal Textiles,Budget,18.99,5.25,2022-09-15,Yes

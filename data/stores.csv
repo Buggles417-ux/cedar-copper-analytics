@@ -1,0 +1,26 @@
+store_id,store_name,city,state,store_region,open_date,store_status
+ST-001,New York,New York,NY,Northeast,2018-01-18,Open
+ST-002,Los Angeles,Los Angeles,CA,West,2018-02-12,Open
+ST-003,Chicago,Chicago,IL,Midwest,2018-03-22,Open
+ST-004,Houston,Houston,TX,South,2018-04-16,Open
+ST-005,Phoenix,Phoenix,AZ,West,2018-05-09,Open
+ST-006,Philadelphia,Philadelphia,PA,Northeast,2018-06-21,Open
+ST-007,San Antonio,San Antonio,TX,South,2018-07-19,Open
+ST-008,San Diego,San Diego,CA,West,2018-08-14,Open
+ST-009,Dallas,Dallas,TX,South,2018-09-10,Open
+ST-010,Jacksonville,Jacksonville,FL,South,2019-01-22,Open
+ST-011,Austin,Austin,TX,South,2019-02-11,Open
+ST-012,Fort Worth,Fort Worth,TX,South,2019-03-12,Open
+ST-013,San Jose,San Jose,CA,West,2019-04-15,Open
+ST-014,Columbus,Columbus,OH,Midwest,2019-05-20,Open
+ST-015,Charlotte,Charlotte,NC,South,2019-06-18,Open
+ST-016,Indianapolis,Indianapolis,IN,Midwest,2019-07-14,Open
+ST-017,San Francisco,San Francisco,CA,West,2019-08-19,Open
+ST-018,Seattle,Seattle,WA,West,2019-09-09,Open
+ST-019,Denver,Denver,CO,West,2019-10-27,Open
+ST-020,Oklahoma City,Oklahoma City,OK,South,2020-01-16,Open
+ST-021,Nashville,Nashville,TN,South,2020-02-20,Open
+ST-022,Washington DC,Washington DC,DC,Northeast,2020-03-12,Open
+ST-023,El Paso,El Paso,TX,South,2020-04-25,Open
+ST-024,Las Vegas,Las Vegas,NV,West,2020-05-21,Open
+ST-025,Boston,Boston,MA,Northeast,2020-06-04,Open
